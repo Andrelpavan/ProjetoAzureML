@@ -69,6 +69,7 @@ Passo 2:
 - Em seguida acessei a aba "Testar" do ponto de extremidade para realizar o teste abaixo.
 ![image](https://github.com/Andrelpavan/ProjetoAzureML/assets/69944259/578706f8-ea4a-4bb2-aece-a528b4dab260)
 
-  
+8.Conclusão:
+- O resultado final do teste, que incluem um número previsto de aluguéis com base nos recursos de entrada, resultou em: 368.12.
 
 
